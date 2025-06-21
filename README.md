@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Utkarshb77
+- 👋 Hi, I’m Utkarsh Baghel
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web development
 - 💞️ I'm trying my best to achieve my goals
-- 📫 you van reach me on linkedIn https://www.linkedin.com/in/utkarsh-baghel-456375290/
+- 📫 you can reach me on linkedIn https://www.linkedin.com/in/utkarsh-baghel-456375290/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
