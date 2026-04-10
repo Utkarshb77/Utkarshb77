@@ -16,7 +16,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=akshanshmaurya&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)](https://github.com/Utkarshb77)
 
 </div>
----
 
 
 ## 🚀 About Me  
@@ -75,4 +74,4 @@
 ### ⚡ Fun Fact  
 I don’t just fix bugs — I **hunt them down** 🐞😄  
 
-⭐ *Thanks for visiting my profile! Have a Good Day *  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20visiting%20—%20see%20you%20again!%20%F0%9F%91%8B&fontSize=28&fontColor=61DAFB&animation=twinkling" />
